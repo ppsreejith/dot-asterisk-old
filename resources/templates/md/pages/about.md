@@ -3,6 +3,4 @@
  :page-index 0
  :navbar? true}
 
-## Write something about something
-
-wow wow wow
+Mostly about programming but may also include book reviews and meandering thoughts on other stuff.
