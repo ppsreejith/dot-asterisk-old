@@ -1,0 +1,1 @@
+A blog generated using cryogen. Hopefully I'll keep blogging regularly.
