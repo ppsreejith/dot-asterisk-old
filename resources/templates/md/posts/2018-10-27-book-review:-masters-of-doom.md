@@ -3,13 +3,9 @@
  :tags ["book review" ""]
  :toc false}
 
-### Headline
-
-enter stuff here
+### Book Review
 
 So, I recently read Masters of Doom by David Kushner and thought I'd post my book review here. I also hope to make this a regular thing.
-
-## Review
 
 [Masters of Doom](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
 
