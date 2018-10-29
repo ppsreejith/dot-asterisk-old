@@ -1,9 +1,9 @@
 {:title "Book Review: Masters Of Doom"
  :layout :post
- :tags ["book review" ""]
+ :tags ["book review" "masters of doom"]
  :toc false}
 
-### Book Review
+## Book Review
 
 So, I recently read Masters of Doom by David Kushner and thought I'd post my book review here. I also hope to make this a regular thing.
 
