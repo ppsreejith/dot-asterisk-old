@@ -3,7 +3,7 @@
  :tags ["react-native", "tensorflow", "tensorflow-lite", "deeplearning", "high-performance"]
  :toc false}
 
-# Real time image classification with React Native
+So I had some time to burn and with our success at the Hacko Hackathon, thought of taking some time to work on creating a standalone real-time image classification library with React Native. Below is pretty much copied over from my Medium post.
 
 Earlier attempts at Image classification over React Native involved sending image data to the model classifier by sending the image over the bridge or storing the image to disk and accessing the image on the native side. Here's an attempt at live image classification by processing from the camera feed on the native side and getting the output as a byte stream on the JS side using the react-native-camera-tflite library.
 
