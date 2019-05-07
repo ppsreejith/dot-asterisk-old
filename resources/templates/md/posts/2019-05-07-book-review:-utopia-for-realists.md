@@ -1,6 +1,6 @@
 {:title "Book Review: Utopia For Realists"
  :layout :post
- :tags [""]
+ :tags ["book review", "utopia"]
  :toc false}
 
 ### Book Review
