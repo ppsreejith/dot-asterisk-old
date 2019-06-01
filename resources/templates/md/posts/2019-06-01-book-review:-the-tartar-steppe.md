@@ -1,6 +1,6 @@
 {:title "Book Review: The Tartar Steppe"
  :layout :post
- :tags [""]
+ :tags ["book review", "the tartar steppe", "black swan", "goals"]
  :toc false}
 
 ### Book Review
